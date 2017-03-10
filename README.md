@@ -17,3 +17,6 @@ GDP Test Interview Frontend System
 4. Click on "+" button to buy responding advertisement, and your cart will automatically update.
 5. You can also delete the cart item by clicking on the 'x' on cart item card.
 6. Prices will be calculated based on the privilege set.
+
+## Note
+This project is created with minimum error-handling method. However, it is tested according to the case-study and did return expected result.
