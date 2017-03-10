@@ -1,0 +1,50 @@
+.btn-next-outline {
+  background-color: transparent;
+  color: #1751c3;
+  transition: all .5s;
+  border:1px solid #1751c3;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.btn-next-outline:hover{
+  text-decoration: none;
+  background-color: #1751c3;
+  color: #FFFFFF;
+}
+
+.input-box{
+  background-color: transparent;
+  color: #000000;
+  transition: all .5s;
+  border:0.5px solid #000000;
+  display: inline-block;
+  padding: 26px 22px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  user-select: none;
+  background-image: none;
+  border-radius: 4px;
+  text-decoration: none;
+  width: 80%;
+  font-size: 20px;
+}
