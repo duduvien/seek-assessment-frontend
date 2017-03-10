@@ -8,7 +8,7 @@ GDP Test Interview Frontend System
 1. Clone the project
 2. Run `npm install` or `npm i`
 3. Run `npm start` to start the server
-4. Visit `localhost:3001`
+4. Visit `localhost:3000`
 
 ## How to use
 1. You will only need to enter a company name and click "Next". The company name will need to be exactly the same.
