@@ -7,7 +7,7 @@ GDP Test Interview Frontend System
 ## How to setup
 1. Clone the project
 2. Run `npm install` or `npm i`
-3. Run `npm start` to start the server
+3. Run `npm start` to start the server. You should see a message that ask you to confirm to use another port, type "Y".
 4. Visit `localhost:3001`
 
 ## How to use
@@ -19,4 +19,4 @@ GDP Test Interview Frontend System
 6. Prices will be calculated based on the privilege set.
 
 ## Note
-This project is created with minimum error-handling method. However, it is tested according to the case-study and did return expected result.
+This project is created with minimum error-handling method. However, it is tested according to the case-study and did return expected result. Always run `Backend` first to avoid port clashing.
